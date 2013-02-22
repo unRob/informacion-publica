@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Biciestacionamientos</name>
+  <description><![CDATA[Lista de biciestacionamientos instalados en el DF por el Gobierno del Distrito Federal. Lista entregada por medio del InfoMex desde la Secretaría del Medio Ambiente]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Taquería Frontera</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-99.155815,19.419184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Taquería Tops</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-99.158394,19.423210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tortas Poblanas</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-99.157684,19.420488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Corredor Puebla</name>
+    <description><![CDATA[<div dir="ltr">3</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-99.175690,19.419811,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pabellón Cuauhtémoc</name>
+    <description><![CDATA[<div dir="ltr">2</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-99.155067,19.411585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vinos y Abarrotes &quot;El Cañón de los Ángeles&quot;</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-99.158089,19.405706,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Roma</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-99.165207,19.410725,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Córdoba y Chiapas</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-99.157234,19.413538,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Taquería &quot;Los Parados&quot;</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-99.161331,19.406160,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Orígenes Orgánicos</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-99.167938,19.415207,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>El Ocho</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-99.170052,19.410322,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante Orquídea</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-99.169617,19.410456,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biblioteca Parque España</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-99.172089,19.414244,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biblioteca Parque México</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-99.169212,19.414099,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Billar El Afizzionado</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-99.157974,19.418764,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Carnicería</name>
+    <description><![CDATA[<div dir="ltr">4</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-99.168457,19.408762,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa de Cultura &quot;Jesús Romero Flores&quot;</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-99.170204,19.403650,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Lamm</name>
+    <description><![CDATA[<div dir="ltr">2</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-99.159592,19.418556,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centro Escolar Universitario Londres</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-99.159569,19.416119,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>CNCI (Insurgentes)</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-99.169022,19.404032,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante &quot;Andricios&quot;</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-99.161522,19.411558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sicario</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-99.158302,19.420212,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Motivos</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-99.161552,19.419579,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante La Piazza</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-99.159042,19.416761,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>El Parián</name>
+    <description><![CDATA[<div dir="ltr">4</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-99.160728,19.417919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>El Tizoncito</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-99.175201,19.409864,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Estética Lybou</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-99.163322,19.411180,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercado Medellín</name>
+    <description><![CDATA[<div dir="ltr">7</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-99.163139,19.410200,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Coahuila y Manzanillo</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-99.166023,19.410711,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurante El Axotleño</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-99.163002,19.411165,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Servihogar</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-99.165596,19.410709,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Galerías Roma</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-99.166199,19.411409,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>K24</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-99.154121,19.422644,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Nueva Tierra</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-99.158882,19.418283,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tortería La Cubana</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-99.165695,19.414169,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Billar Lucile</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-99.160072,19.419067,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Miscelánea San Diego</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-99.159988,19.411781,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacia Capuchinas</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-99.178795,19.413361,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frutos Prohibidos</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-99.168060,19.410881,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercado Condesa</name>
+    <description><![CDATA[<div dir="ltr">4</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-99.174248,19.411398,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Módulo SSP Pushkin</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-99.154549,19.419434,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Moshi Moshi</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-99.166672,19.419777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Álvaro Obregón 112</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-99.159843,19.418091,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Office Max Chilpancingo</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-99.169350,19.404795,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Papelería y Cafetería</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-99.157310,19.413275,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pizzabrosas</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-99.159843,19.416704,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plaza Insurgentes</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-99.166229,19.412586,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SETRAVI</name>
+    <description><![CDATA[<div dir="ltr">4</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-99.167137,19.416964,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>7-Eleven</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-99.156136,19.423855,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Subway Centro Cultural Telmex</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-99.155167,19.425289,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tortilleria Nelly</name>
+    <description><![CDATA[<div dir="ltr">1</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-99.154938,19.423449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
