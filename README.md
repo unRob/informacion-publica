@@ -3,7 +3,7 @@
 
 La idea de este repo es publicar la información que nos ha sido otorgada a través de los varios instititos federales y locales de acceso a la información, así como aquellos datos que considere deben ser disponibles de manera LEGIBLE y no mamadas.
 
-La información está dividida por dependencia, y cuándo no tenga hueva habrá un índice en el [wiki](/unRob/informacion-publica/wiki/Índice).
+La información está dividida por dependencia, y cuándo no tenga hueva habrá un índice en el [wiki](http://github.com/unRob/informacion-publica/wiki/Índice).
 
 # ¿Cómo contribuir?
 
