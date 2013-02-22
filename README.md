@@ -1,7 +1,7 @@
 # Información Pública
-(que nos proporcionó el IFAI)
+(que *chance* nos proporcionó el IFAI)
 
-La idea de este repo es publicar la información que nos ha sido otorgada a través de los varios instititos federales y locales de acceso a la información.
+La idea de este repo es publicar la información que nos ha sido otorgada a través de los varios instititos federales y locales de acceso a la información, así como aquellos datos que considere deben ser disponibles de manera LEGIBLE y no mamadas.
 
 La información está dividida por dependencia, y cuándo no tenga hueva habrá un índice en el [wiki](wiki).
 
