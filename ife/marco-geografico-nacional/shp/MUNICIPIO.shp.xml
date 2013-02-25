@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="es"><Esri><MetaID>{9EA87157-8561-430C-B859-E392AAECBCBB}</MetaID><CreaDate>20120404</CreaDate><CreaTime>10314100</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Archivos de programa\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\RepairGeometry" Date="20120404" Time="103141">RepairGeometry "D:\Depto 2012\MGS Enero-2012\MGS Jorge\Shapefile\MUNICIPIO.shp" DELETE_NULL "D:\Depto 2012\MGS Enero-2012\MGS Jorge\Shapefile\MUNICIPIO.shp"</Process></lineage></DataProperties></Esri></metadata>
